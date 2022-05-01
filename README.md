@@ -4,4 +4,4 @@ Petra Hamann
 ### IDE einrichten 
 verwendet: Visual Studio Code
 ### Spiel programmieren
-Tic Tac Toe [hier](https://github.com/FrauBloehmann/DataScience/tree/main/TicTacToe) klicken.
+[Tic Tac Toe](https://github.com/FrauBloehmann/DataScience/tree/main/TicTacToe) klicken.
